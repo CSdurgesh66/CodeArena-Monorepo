@@ -6,8 +6,12 @@ const apiRouter = require('./routes/index');
 const BaseError = require('./errors/base.error');
 const errorHandler = require('./utils/errorHandler');
 const connectDB = require('./config/database.config');
+const cors = require('cors');
 
 const app = express();
+app.use(cors());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 
 app.use('/api',apiRouter);
@@ -24,5 +28,5 @@ app.listen(PORT, async() => {
 
     await connectDB();
     console.log("Successfully Connected to Db")   
-    
+ 
 });
