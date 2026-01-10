@@ -63,8 +63,8 @@ async function getProblems(req, res, next) {
 }
 
 async function deleteProblem(req, res, next) {
-    try {
 
+     try {
         const deletedProblem = await problemService.deleteProblem(req.params.id);
         
         return res.status(StatusCodes.OK).json({
@@ -77,6 +77,7 @@ async function deleteProblem(req, res, next) {
     } catch(error) {
         next(error);
     }
+    
 }
 
 function updateProblem(req, res) {
