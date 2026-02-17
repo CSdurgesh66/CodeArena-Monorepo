@@ -11,7 +11,7 @@ class ProblemService{
         problemData.description = await sanitizeMarkdownContent(problemData.description);
         const problem = await this.problemRepository.createProblem(problemData);
         
-        return problem; 
+        return problem;
     }
 
 

@@ -17,26 +17,45 @@ const problemSchema = new mongoose.Schema({
         required: [true, 'Difficulty cannot be empty'],
         default: 'easy'
     },
-    testCases:[
+    testCases: [
         {
-            _id:false,
-            input:{
-                type:String,
-                required:true
+            _id: false,
+            input: {
+                type: String,
+                required: true
             },
-            output:{
-                type:String,
-                required:true
+            output: {
+                type: String,
+                required: true
             },
 
         }
     ],
-    editorial:{
-        type:String
+
+    codeStubs: [
+        {
+            _id: false,
+            language: {
+                type: String,
+                required: true
+            },
+            startSnippet: {
+                type: String,
+                // required: true
+            },
+            endSnippet: {
+                type: String,
+                // required: true
+            }
+        }
+    ],
+
+    editorial: {
+        type: String
     }
 
-},{timestamps:true})
+}, { timestamps: true })
 
 
 
-module.exports = mongoose.model('Problem',problemSchema);
+module.exports = mongoose.model('Problem', problemSchema);
