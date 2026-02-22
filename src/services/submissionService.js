@@ -23,11 +23,11 @@ class SubmissionService {
         }
 
 
-        console.log("this is problemAdminApiResponse", problemAdminApiResponse);
+        const testcases = problemAdminApiResponse.data.testCases[0].input;
 
         const languageCodeStub = problemAdminApiResponse.data.codeStubs.find(obj => obj.language.toLowerCase() === submissionPayload.language.toLowerCase());
 
-        console.log(languageCodeStub);
+        if(languageCodeStub === undefined) return {message:"language not supported"};
 
         submissionPayload.code = languageCodeStub.startSnippet + "\n\n" + submissionPayload.code + "\n\n" + languageCodeStub.endSnippet;
 
@@ -37,13 +37,20 @@ class SubmissionService {
             return { success: false, message: "submission not create" };
         }
 
+        const response = await submissionQueueProducer({
+            code: submission.code,
+            language: submission.language,
+            inputCase: problemAdminApiResponse.data.testCases[0].input,
+            outputCase: problemAdminApiResponse.data.testCases[0].output,
+            userId,
+            submission_id:submission._id
+        });
 
-        console.log("submission :  ", submission);
-
-
-        // 
-
-
+        return {
+        success: true,
+        submissionId: submission._id,
+        status: "Pending"
+    };
 
     }
 }
