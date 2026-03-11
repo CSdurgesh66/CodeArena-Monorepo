@@ -1,0 +1,776 @@
+[2026-03-06 23:09:46] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-06 23:09:46] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-06 23:09:46] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-06 23:09:46] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-06 23:09:46] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-06 23:09:46] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-06 23:09:46] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-06 23:14:30] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-06 23:14:30] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-06 23:14:30] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-06 23:14:30] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-06 23:14:30] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-06 23:14:30] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-06 23:14:30] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-06 23:17:00] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-06 23:17:00] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-06 23:17:00] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-06 23:17:00] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-06 23:17:00] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-06 23:17:00] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-06 23:17:00] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-06 23:23:24] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-06 23:23:24] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-06 23:23:24] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-06 23:23:24] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-06 23:23:24] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-06 23:23:24] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-06 23:23:24] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-06 23:23:25] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-06 23:23:25] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-06 23:23:25] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-06 23:23:25] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-06 23:23:25] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-06 23:23:25] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-06 23:23:25] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:40:01] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:40:02] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:40:02] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:40:02] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:40:02] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:40:02] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:40:02] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:40:17] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:40:17] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:40:17] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:40:17] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:40:17] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:40:17] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:40:17] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:42:21] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 15:42:40] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:42:40] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:42:40] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:42:40] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:42:40] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:42:40] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:42:40] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:44:40] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 15:45:06] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:45:06] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:45:06] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:45:06] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:45:06] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:45:06] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:45:06] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:45:15] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 15:46:13] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:46:13] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:46:13] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:46:13] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:46:13] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:46:13] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:46:13] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:50:07] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 15:50:27] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:50:27] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:50:27] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:50:27] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:50:27] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:50:27] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:50:27] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:52:47] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 15:54:26] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:54:26] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:54:26] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:54:26] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:54:26] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:54:26] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:54:26] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:54:43] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:54:43] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:54:43] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:54:43] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:54:43] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:54:43] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:54:43] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 15:59:37] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 15:59:37] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 15:59:37] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 15:59:37] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 15:59:37] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 15:59:37] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 15:59:37] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:00:04] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:00:04] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:00:04] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:00:04] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:00:04] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:00:04] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:00:04] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:00:13] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:00:13] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:00:13] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:00:13] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:00:13] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:00:13] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:00:13] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:04:28] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 16:05:03] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 16:08:25] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:08:25] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:08:25] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:08:25] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:08:25] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:08:25] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:08:25] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:20:01] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:20:01] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:20:01] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:20:01] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:20:01] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:20:01] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:20:01] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:20:02] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:20:02] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:20:02] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:20:02] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:20:02] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:20:02] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:20:02] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:20:15] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:20:15] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:20:15] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:20:15] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:20:15] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:20:15] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:20:15] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:20:41] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:20:41] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:20:41] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:20:41] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:20:41] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:20:41] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:20:41] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:20:52] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:20:52] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:20:52] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:20:52] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:20:52] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:20:52] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:20:52] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:23:28] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:23:28] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:23:28] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:23:28] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:23:28] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:23:28] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:23:28] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:24:03] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:24:03] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:24:03] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:24:03] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:24:03] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:24:03] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:24:03] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:27:43] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:27:43] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:27:43] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:27:43] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:27:43] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:27:43] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:27:43] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:30:40] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:30:40] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:30:40] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:30:40] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:30:40] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:30:40] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:30:40] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:30:59] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:30:59] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:30:59] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:30:59] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:30:59] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:30:59] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:30:59] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:31:07] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:31:07] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:31:07] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:31:07] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:31:07] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:31:07] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:31:07] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:31:13] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:31:13] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:31:13] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:31:13] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:31:13] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:31:13] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:31:13] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:33:09] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 16:33:18] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:33:18] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:33:18] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:33:18] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:33:18] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:33:18] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:33:18] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:33:42] [31merror[39m: Proxy error - http://localhost:3001 | read ECONNRESET
+[2026-03-07 16:34:27] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:34:27] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:34:27] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:34:27] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:34:27] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:34:27] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:34:27] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:36:51] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:36:51] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:36:51] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:36:51] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:36:51] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:36:51] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:36:51] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:36:56] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:36:56] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:36:56] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:36:56] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:36:56] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:36:56] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:36:56] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:39:38] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:39:38] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:39:38] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:39:38] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:39:38] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:39:38] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:39:38] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:40:48] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:40:48] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:40:48] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:40:48] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:40:48] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:40:48] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:40:48] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:41:12] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:41:12] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:41:12] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:41:12] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:41:12] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:41:12] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:41:12] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:41:16] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:41:16] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:41:16] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:41:16] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:41:16] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:41:16] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:41:16] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:58:31] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:58:31] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:58:31] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:58:31] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:58:31] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:58:31] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:58:31] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:58:31] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:58:31] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:58:31] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:58:31] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:58:31] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:58:31] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:58:31] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 16:58:35] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 16:58:35] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 16:58:35] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 16:58:35] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 16:58:35] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 16:58:35] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 16:58:35] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 17:22:49] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 17:22:49] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 17:22:49] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 17:22:49] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 17:22:49] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 17:22:49] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 17:22:49] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 17:24:10] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 17:24:10] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 17:24:10] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 17:24:10] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 17:24:10] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 17:24:10] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 17:24:10] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 17:25:55] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 17:25:55] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 17:25:55] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 17:25:55] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 17:25:55] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 17:25:55] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 17:25:55] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 17:26:09] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:33:10] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 17:33:10] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 17:33:10] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 17:33:10] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 17:33:10] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 17:33:10] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 17:33:10] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 17:33:18] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:40:29] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:41:25] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:41:25] [31merror[39m: Proxy error - http://localhost:3002 | 
+[2026-03-07 17:44:36] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:49:13] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 17:49:13] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 17:49:13] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 17:49:13] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 17:49:13] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 17:49:13] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 17:49:13] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 17:49:34] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:53:02] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:58:14] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 17:58:14] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 17:58:14] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 17:58:14] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 17:58:14] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 17:58:14] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 17:58:14] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 17:58:41] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 17:59:01] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:00:26] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:00:53] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:00:53] [31merror[39m: Proxy error - http://localhost:3002 | 
+[2026-03-07 18:00:59] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:00:59] [31merror[39m: Proxy error - http://localhost:3002 | 
+[2026-03-07 18:01:03] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:01:03] [31merror[39m: Proxy error - http://localhost:3002 | 
+[2026-03-07 18:01:34] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 18:01:34] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 18:01:34] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 18:01:34] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 18:01:34] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 18:01:34] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 18:01:34] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 18:01:36] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:07:39] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 18:07:39] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 18:07:39] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 18:07:39] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 18:07:39] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 18:07:39] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 18:07:39] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 18:07:42] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-07 18:07:42] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-07 18:07:42] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-07 18:07:42] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-07 18:07:42] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-07 18:07:42] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-07 18:07:42] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-07 18:08:05] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:08:05] [31merror[39m: Proxy error - http://localhost:3002 | 
+[2026-03-07 18:09:24] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:12:38] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:13:45] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:13:45] [31merror[39m: Proxy error - http://localhost:3002 | 
+[2026-03-07 18:15:00] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:15:41] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:18:03] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:21:04] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:21:47] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:23:00] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-07 18:23:25] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-08 10:57:27] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-08 10:57:27] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-08 10:57:27] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-08 10:57:27] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-08 10:57:27] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-08 10:57:27] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-08 10:57:27] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-08 10:57:37] [31merror[39m: Proxy error - http://localhost:3001 | 
+[2026-03-08 11:25:32] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-08 11:25:32] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-08 11:25:32] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-08 11:25:32] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-08 11:25:32] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-08 11:25:32] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-08 11:25:32] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-09 13:21:22] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-09 13:21:22] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-09 13:21:22] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-09 13:21:22] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-09 13:21:22] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-09 13:21:22] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-09 13:21:22] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-09 13:40:03] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-09 13:40:03] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-09 13:40:03] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-09 13:40:03] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-09 13:40:03] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-09 13:40:03] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-09 13:40:03] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-09 13:41:02] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-09 13:41:02] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-09 13:41:02] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-09 13:41:02] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-09 13:41:02] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-09 13:41:02] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-09 13:41:02] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-09 13:41:06] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/problems/
+[2026-03-09 13:58:49] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | GET /api/problems/69983ace60f22818e96caf8c
+[2026-03-09 13:59:13] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | GET /api/problems
+[2026-03-09 13:59:56] [32minfo[39m: Auth OK | userId: 69ae7cbc640eff480ead3317 | GET /api/problems
+[2026-03-09 14:00:14] [32minfo[39m: Auth OK | userId: 69ae7cbc640eff480ead3317 | POST /api/problems/
+[2026-03-09 14:01:50] [32minfo[39m: Auth OK | userId: 69ae7cbc640eff480ead3317 | GET /api/problems
+[2026-03-09 14:02:46] [33mwarn[39m: Auth failed: jwt malformed
+[2026-03-09 14:03:04] [32minfo[39m: Auth OK | userId: 69ae7cbc640eff480ead3317 | DELETE /api/problems/69ae809a09c55d8c9a86b1f4
+[2026-03-09 14:03:35] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | DELETE /api/problems/69ae809a09c55d8c9a86b1f4
+[2026-03-09 14:03:45] [32minfo[39m: Auth OK | userId: 69ae7cbc640eff480ead3317 | GET /api/problems/69ae809a09c55d8c9a86b1f4
+[2026-03-09 14:04:01] [32minfo[39m: Auth OK | userId: 69ae7cbc640eff480ead3317 | GET /api/problems/
+[2026-03-09 14:10:19] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-09 14:17:32] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-09 14:19:26] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 15:33:19] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 15:33:19] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 15:33:19] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 15:33:19] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 15:33:19] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 15:33:19] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 15:33:19] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 15:46:32] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 15:46:32] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 15:46:32] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 15:46:32] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 15:46:32] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 15:46:32] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 15:46:32] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 15:47:22] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 16:11:53] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 16:21:35] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 16:22:47] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 16:23:30] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 16:23:59] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 16:24:16] [32minfo[39m: Auth OK | userId: 69ac0fda26ead07fb13b8aa4 | POST /api/submissions
+[2026-03-11 16:28:57] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:28:57] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:28:57] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:28:57] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:28:57] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:28:57] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:28:57] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:29:49] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:29:49] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:29:49] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:29:49] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:29:49] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:29:49] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:29:49] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:34:42] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:34:42] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:34:42] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:34:42] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:34:42] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:34:42] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:34:42] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:34:44] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:34:44] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:34:44] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:34:44] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:34:44] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:34:44] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:34:44] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:34:45] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:34:45] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:34:45] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:34:45] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:34:45] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:34:45] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:34:45] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:35:26] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:35:26] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:35:26] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:35:26] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:35:26] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:35:26] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:35:26] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:38:29] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:38:29] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:38:29] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:38:29] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:38:29] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:38:29] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:38:29] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:40:00] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:40:00] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:40:00] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:40:00] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:40:00] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:40:00] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:40:00] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:15] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:15] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:15] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:15] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:15] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:43:15] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:15] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:23] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:23] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:23] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:23] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:23] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:43:23] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:23] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:23] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:23] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:23] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:23] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:23] [32minfo[39m:  Socket → http://localhost:3003
+[2026-03-11 16:43:23] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:23] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:52] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:52] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:52] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:52] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:52] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:52] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:52] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:52] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:52] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:52] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:52] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:52] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:52] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:52] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:53] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:53] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:53] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:53] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:53] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:53] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:53] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:54] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:54] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:54] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:54] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:54] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:54] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:54] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:55] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:55] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:55] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:55] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:55] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:55] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:55] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:55] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:55] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:55] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:55] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:55] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:55] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:55] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:58] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:58] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:58] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:58] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:58] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:58] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:58] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:59] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:59] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:59] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:59] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:59] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:59] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:59] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:43:59] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:43:59] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:43:59] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:43:59] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:43:59] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:43:59] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:43:59] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:00] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:00] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:00] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:00] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:00] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:00] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:00] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:00] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:00] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:00] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:00] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:00] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:00] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:00] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:54] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:54] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:54] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:54] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:54] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:54] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:54] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:55] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:55] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:55] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:55] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:55] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:55] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:55] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:55] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:55] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:55] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:55] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:55] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:55] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:55] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:57] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:57] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:57] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:57] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:57] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:57] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:57] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:58] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:58] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:58] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:58] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:58] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:58] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:58] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:58] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:58] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:58] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:58] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:58] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:58] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:58] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:44:59] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:44:59] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:44:59] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:44:59] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:44:59] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:44:59] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:44:59] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:45:00] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:45:00] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:45:00] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:45:00] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:45:00] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:45:00] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:45:00] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:45:00] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:45:00] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:45:00] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:45:00] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:45:00] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:45:00] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:45:00] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:45:13] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:45:13] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:45:13] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:45:13] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:45:13] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:45:13] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:45:13] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:45:13] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:45:13] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:45:13] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:45:13] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:45:13] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:45:13] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:45:13] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:46:01] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:46:01] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:46:01] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:46:01] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:46:01] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:46:01] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:46:01] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:46:02] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:46:02] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:46:02] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:46:02] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:46:02] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:46:02] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:46:02] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:46:24] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:46:24] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:46:24] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:46:24] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:46:24] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:46:24] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:46:24] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:46:24] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:46:24] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:46:24] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:46:24] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:46:24] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:46:24] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:46:24] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:46:41] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:46:41] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:46:41] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:46:41] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:46:41] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:46:41] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:46:41] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:46:57] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:46:57] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:46:57] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:46:57] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:46:57] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:46:57] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:46:57] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:47:28] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:47:28] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:47:28] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:47:28] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:47:28] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:47:28] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:47:28] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:48:40] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:48:40] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:48:40] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:48:40] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:48:40] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:48:40] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:48:40] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:48:59] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:48:59] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:48:59] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:48:59] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:48:59] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:48:59] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:48:59] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:48:59] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:48:59] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:48:59] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:48:59] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:48:59] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:48:59] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:48:59] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:49:07] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:49:07] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:49:07] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:49:07] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:49:07] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:49:07] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:49:07] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:49:09] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:49:09] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:49:09] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:49:09] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:49:09] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:49:09] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:49:09] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
+[2026-03-11 16:49:09] [32minfo[39m: CodeArena API Gateway started on http://localhost:8080
+[2026-03-11 16:49:09] [32minfo[39m:  Auth → http://localhost:3001
+[2026-03-11 16:49:09] [32minfo[39m:  Problem → http://localhost:3000
+[2026-03-11 16:49:09] [32minfo[39m:  Submission → http://localhost:3002
+[2026-03-11 16:49:09] [32minfo[39m:  Socket → undefined
+[2026-03-11 16:49:09] [32minfo[39m:  Evaluator → http://localhost:3004
+[2026-03-11 16:49:09] [32minfo[39m:  AI: POST /api/ai/analyze | POST /api/ai/explain
