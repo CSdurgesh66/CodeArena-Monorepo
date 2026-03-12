@@ -1,12 +1,11 @@
 const express = require('express');
 const { analyzeCode } = require('../services/aiService');
 const authMiddleware = require('../middleware/authMiddleware');
-
-
+const { aiLimiter } = require('../middleware/rateLimiter');
 
 const router = express.Router();
 
-router.post('/analyze', authMiddleware,async (req, res) => {
+router.post('/analyze', authMiddleware,aiLimiter, async (req, res) => {
     try {
 
         const { code, language, problemTitle } = req.body;
