@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>frontend</title>
+</head>
+
+<body>
+
+
+    <button id="submitbtn">Submit</button>
+    <button id="fetchBtn">fetch</button>
+
+    <div id="connectionResponse"></div>
+
+    <div id="submissionResponse"></div>
+
+
+
+    <script src="https://cdn.socket.io/4.8.3/socket.io.min.js"></script>
+    <script>
+
+
+        const socket = io("http://localhost:3002");
+
+        const userId = "1"
+        const submitbtn = document.getElementById('submitbtn');
+        const fetchBtn = document.getElementById('fetchBtn');
+        
+
+
+        
+        socket.on("connect", () => {
+            console.log("Connected to server");
+            console.log("Socket ID:", socket.id);
+        });
+
+        submitbtn.addEventListener('click', function (e) {
+            e.preventDefault();
+
+            console.log("Emitting user id");
+
+            // document.getElementById('submissionResponse').textContent = "hii this is response";
+
+            socket.emit('setUserId', userId);
+        });
+
+
+
+        fetchBtn.addEventListener('click', () => {
+            console.log("Emmiting get connection id");
+            socket.emit('getConnectionId',userId);
+        })
+
+
+        socket.on("connectionId",(data) => {
+            document.getElementById('connectionResponse').textContent = data;
+        });
+
+
+
+        socket.on("submissionPayloadResponse",(data) => {
+            document.getElementById('submissionResponse').textContent = JSON.stringify(data);
+        })
+
+
+
+        socket.on('disconnect', () => {
+            console.log("Disconnected from Server");
+        })
+
+
+
+
+
+
+    </script>
+
+
+
+
+</body>
+
+</html>
